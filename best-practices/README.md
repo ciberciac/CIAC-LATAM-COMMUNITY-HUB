@@ -8,6 +8,7 @@ Guías de configuración segura pensadas para equipos de la región, desde la py
 | [linux-hardening](linux-hardening/) | Servidores Linux (Debian/Ubuntu, RHEL y derivados) |
 | [cloud-security](cloud-security/) | AWS, Azure, Google Cloud y Microsoft 365 / Google Workspace |
 | [identity-security](identity-security/) | Identidades, MFA, cuentas privilegiadas y acceso |
+| [nist-cisa](nist-cisa/) | Buenas prácticas de NIST y CISA para SOC, inteligencia, vulnerabilidades, cacería, respuesta a incidentes y comunicaciones |
 | [ai-secure-development](ai-secure-development/) | Programar con IA, construir aplicaciones y agentes con LLM, y usar IA en operaciones de seguridad |
 
 ## Cómo está organizada cada guía

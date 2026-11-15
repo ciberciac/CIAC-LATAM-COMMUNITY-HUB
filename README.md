@@ -18,7 +18,7 @@ Buenas prácticas, inteligencia de amenazas, cacería de amenazas, detecciones, 
 
 | Sección | Qué encontrarás | Marcos de referencia |
 |---|---|---|
-| [best-practices](best-practices/) | Guías de bastionado, configuración segura y desarrollo seguro con IA | CIS Benchmarks, CIS Controls v8.1, NIST CSF 2.0, OWASP Top 10 for LLM, NIST AI RMF |
+| [best-practices](best-practices/) | Guías de bastionado, configuración segura, desarrollo seguro con IA y buenas prácticas de NIST y CISA por proceso | CIS Benchmarks, CIS Controls v8.1, NIST CSF 2.0, CISA CPG 2.0, OWASP Top 10 for LLM, NIST AI RMF |
 | [threat-intelligence](threat-intelligence/) | Análisis de hipótesis, mapeo ATT&CK, análisis de IOCs, perfiles de amenazas y metodologías OSINT | ACH, MITRE ATT&CK, Modelo de Diamante, escala Almirantazgo, Protocolo de Berkeley |
 | [threat-hunting](threat-hunting/) | Frameworks y cacerías documentadas para encontrar lo que evadió las defensas | TaHiTI, MaGMa, PEAK, Hunting Maturity Model |
 | [detection-as-code](detection-as-code/) | Reglas y consultas listas para usar y adaptar | Sigma, KQL, XQL, YARA, Suricata |

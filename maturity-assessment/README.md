@@ -39,6 +39,6 @@ Herramientas para medir y mejorar la madurez de las capacidades de cibersegurida
 - **CTI-CMM** es un modelo comunitario y neutral respecto a proveedores, inspirado en el C2M2, que mide la inteligencia por el valor que entrega a otras áreas.
 - Gestión de vulnerabilidades, cacería y comunicaciones no tienen un modelo único dominante; aquí se combinan las referencias más reconocidas.
 
-Las buenas prácticas de **NIST y CISA** para cerrar las brechas de cada dominio están en [`best-practices/nist-cisa`](../best-practices/nist-cisa/).
+Los [procedimientos operativos estándar](../standard-operating-procedures/) sirven como base para formalizar los procesos: un SOP adaptado y aprobado es evidencia de nivel 3. Las buenas prácticas de **NIST y CISA** para cerrar las brechas de cada dominio están en [`best-practices/nist-cisa`](../best-practices/nist-cisa/).
 
 Esta evaluación es una **versión simplificada y en español**. Para una evaluación formal o certificación, usa las herramientas oficiales de cada modelo (enlaces en cada dominio).

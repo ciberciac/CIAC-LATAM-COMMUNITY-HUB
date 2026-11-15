@@ -34,7 +34,7 @@
 
 ## Idioma y estilo de escritura
 
-- **Todo el contenido se escribe en español.** No se aceptan documentos en otros idiomas.
+- **Todo el contenido se escribe en español.
 - Los términos técnicos en inglés se usan solo cuando son nombres propios o el término estándar del sector (*threat hunting*, *playbook*, *phishing*). La primera vez, acompáñalos de su explicación en español.
 - Español neutro, frases cortas, voz activa.
 - Explica el **por qué** de cada recomendación, no solo el **qué**.

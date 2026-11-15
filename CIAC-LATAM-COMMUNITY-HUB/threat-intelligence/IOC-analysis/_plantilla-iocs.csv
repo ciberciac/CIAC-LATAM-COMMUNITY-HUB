@@ -1,4 +1,0 @@
-tipo,valor,contexto,confianza,primera_vista,ultima_vista,uso_recomendado,comentario
-domain,login-banco-ejemplo.example,phishing,alta,2026-11-10,2026-11-13,bloqueo,Ejemplo con dominio de documentación (RFC 2606)
-ip,203.0.113.10,c2,media,2026-11-11,,deteccion,Ejemplo con rango de documentación (RFC 5737)
-sha256,0000000000000000000000000000000000000000000000000000000000000000,payload,alta,2026-11-11,,deteccion,Hash de ejemplo

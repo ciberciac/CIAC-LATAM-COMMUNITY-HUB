@@ -7,7 +7,7 @@
 - **Corregir o mejorar** contenido existente: errores, enlaces rotos, actualizaciones.
 - **Aportar contenido nuevo**: una guía, una regla, un playbook, un laboratorio.
 - **Reportar** falsos positivos de una regla o recomendaciones que no funcionan.
-- **Traducir** al portugués o al inglés.
+- **Mejorar la redacción** y la claridad de las guías.
 - **Proponer iniciativas** en Discussions.
 
 ## Flujo de trabajo
@@ -32,8 +32,10 @@
 | **Referencias estándar** | Técnicas como ID de MITRE ATT&CK (`T1566.001`), fechas ISO 8601 (`2026-11-14`), países ISO 3166 (`CO`, `MX`, `BR`). |
 | **Probado** | Las reglas y comandos se prueban en laboratorio. Indica en qué versión o plataforma. |
 
-## Estilo de escritura
+## Idioma y estilo de escritura
 
+- **Todo el contenido se escribe en español.** No se aceptan documentos en otros idiomas.
+- Los términos técnicos en inglés se usan solo cuando son nombres propios o el término estándar del sector (*threat hunting*, *playbook*, *phishing*). La primera vez, acompáñalos de su explicación en español.
 - Español neutro, frases cortas, voz activa.
 - Explica el **por qué** de cada recomendación, no solo el **qué**.
 - Indica el nivel: 🟢 básico · 🟡 intermedio · 🔴 avanzado.

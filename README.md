@@ -12,18 +12,17 @@
 
 </div>
 
-🇪🇸 Buenas prácticas, inteligencia de amenazas, detecciones, playbooks de respuesta a incidentes y laboratorios DFIR, adaptados a la realidad de las organizaciones de la región.
-🇧🇷 Conteúdo aberto de cibersegurança para a América Latina. Contribuições em português são bem-vindas.
-🇬🇧 Open cybersecurity knowledge for Latin America. Contributions in English are welcome.
+Buenas prácticas, inteligencia de amenazas, cacería de amenazas, detecciones, playbooks de respuesta a incidentes y laboratorios DFIR, adaptados a la realidad de las organizaciones de la región.
 
 ## Contenido
 
 | Sección | Qué encontrarás | Marcos de referencia |
 |---|---|---|
 | [best-practices](best-practices/) | Guías de bastionado, configuración segura y desarrollo seguro con IA | CIS Benchmarks, CIS Controls v8.1, NIST CSF 2.0, OWASP Top 10 for LLM, NIST AI RMF |
-| [threat-intelligence](threat-intelligence/) | Análisis de hipótesis, mapeo ATT&CK, análisis de IOCs y perfiles de amenazas | ACH, MITRE ATT&CK, Modelo de Diamante, escala Almirantazgo |
+| [threat-intelligence](threat-intelligence/) | Análisis de hipótesis, mapeo ATT&CK, análisis de IOCs, perfiles de amenazas y metodologías OSINT | ACH, MITRE ATT&CK, Modelo de Diamante, escala Almirantazgo, Protocolo de Berkeley |
+| [threat-hunting](threat-hunting/) | Frameworks y cacerías documentadas para encontrar lo que evadió las defensas | TaHiTI, MaGMa, PEAK, Hunting Maturity Model |
 | [detection-as-code](detection-as-code/) | Reglas y consultas listas para usar y adaptar | Sigma, KQL, XQL, YARA, Suricata |
-| [incident-response](incident-response/) | Playbooks paso a paso para los incidentes más frecuentes en la región | NIST SP 800-61r3, ISO/IEC 27035 |
+| [incident-response](incident-response/) | Playbooks para ransomware, phishing, BEC, fuga y brecha de datos | NIST SP 800-61r3, ISO/IEC 27035, leyes de protección de datos de la región |
 | [dfir-labs](dfir-labs/) | Laboratorios prácticos de análisis forense y respuesta | Escenarios reproducibles con datos sintéticos |
 | [templates](templates/) | Plantillas de informes y evaluaciones | ISO/IEC 27005, NIST SP 800-30 |
 
@@ -31,7 +30,7 @@
 
 La mayoría del material de referencia está en inglés y pensado para organizaciones con presupuestos y equipos grandes. Este repositorio busca:
 
-- Contenido **en español y portugués**, con terminología consistente.
+- Contenido **en español**, con terminología consistente.
 - Ejemplos basados en **amenazas que sí se ven en la región**: troyanos bancarios, phishing que suplanta entidades locales, ransomware contra gobierno, salud y manufactura, fraude BEC en comercio exterior.
 - Recomendaciones **aplicables por equipos pequeños**, indicando qué es imprescindible y qué es deseable.
 - Referencias a **marcos internacionales**, para que todo sea comparable y auditable.
@@ -49,7 +48,7 @@ Toda persona que contribuye aparece en [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 | Contenido | Licencia |
 |---|---|
-| Todo el repositorio, salvo lo indicado abajo | [CC BY 4.0](LICENSE): uso libre, incluso comercial, citando a *CIAC LATAM Community Hub* |
+| Todo el repositorio, salvo lo indicado abajo | [CC BY 4.0](LICENSE): uso libre, incluso comercial, citando a *CIAC LATAM Community Hub*. [Resumen en español](LICENCIA.md) |
 | `detection-as-code/` | [Detection Rule License 1.1](detection-as-code/LICENSE.md) |
 
 ## Aviso

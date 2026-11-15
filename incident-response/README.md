@@ -7,6 +7,8 @@ Playbooks para los incidentes más frecuentes en la región, estructurados segú
 | [ransomware](ransomware/) | Cifrado de archivos, notas de rescate o amenaza de publicación de datos |
 | [phishing](phishing/) | Correo malicioso reportado o detectado, con o sin clic |
 | [business-email-compromise](business-email-compromise/) | Cuenta de correo comprometida o fraude de pagos por suplantación |
+| [data-leak](data-leak/) | Exposición no intencionada de datos: recurso público, credenciales en código, datos publicados por terceros |
+| [data-breach](data-breach/) | Acceso no autorizado confirmado a datos, con o sin exfiltración demostrada; incluye notificaciones legales |
 
 ## Fases de cada playbook
 

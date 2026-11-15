@@ -6,6 +6,7 @@
 | [MITRE-ATTACK](MITRE-ATTACK/) | Mapeos de campañas y amenazas regionales a ATT&CK, capas de Navigator |
 | [IOC-analysis](IOC-analysis/) | Análisis y enriquecimiento de indicadores de compromiso |
 | [threat-profiles](threat-profiles/) | Perfiles de actores y familias de malware relevantes para LATAM |
+| [OSINT](OSINT/) | Metodologías de inteligencia de fuentes abiertas: ciclo, Protocolo de Berkeley, OPSEC, ética y casos aplicados |
 
 ## Principios de análisis
 

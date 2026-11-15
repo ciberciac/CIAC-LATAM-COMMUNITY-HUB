@@ -11,7 +11,7 @@
 - Proponer borradores de consultas (KQL, XQL, SPL) y reglas Sigma o YARA.
 - Explicar scripts ofuscados o comandos desconocidos.
 - Redactar borradores de informes y comunicaciones.
-- Traducir informes de amenazas al español o portugués.
+- Traducir al español informes de amenazas publicados en otros idiomas.
 
 ## Controles
 

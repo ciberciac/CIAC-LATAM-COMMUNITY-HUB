@@ -8,4 +8,4 @@
 - Análisis de memoria con Volatility 3 de un RAT común en la región.
 
 ## Herramientas sugeridas
-Eric Zimmerman Tools · Chainsaw · Hayabusa · Sysmon · Volatility 3 · KAPE · Velociraptor
+Eric Zimmerman Tools · Chainsaw · Hayabusa · Sysmon · Volatility 3 · KAPE · Velociraptor · FTK Imager

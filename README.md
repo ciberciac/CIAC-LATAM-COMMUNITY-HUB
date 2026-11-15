@@ -24,6 +24,7 @@ Buenas prácticas, inteligencia de amenazas, cacería de amenazas, detecciones, 
 | [detection-as-code](detection-as-code/) | Reglas y consultas listas para usar y adaptar | Sigma, KQL, XQL, YARA, Suricata |
 | [incident-response](incident-response/) | Playbooks para ransomware, phishing, BEC, fuga y brecha de datos | NIST SP 800-61r3, ISO/IEC 27035, leyes de protección de datos de la región |
 | [dfir-labs](dfir-labs/) | Laboratorios prácticos de análisis forense y respuesta | Escenarios reproducibles con datos sintéticos |
+| [standard-operating-procedures](standard-operating-procedures/) | Procedimientos operativos estándar: monitoreo y triage, casos de uso, inteligencia, vulnerabilidades, cacería, respuesta a incidentes y comunicaciones | NIST SP 800-61r3, NIST SP 800-40r4, NIST SP 800-150, TaHiTI, MaGMa, ISO 22361 |
 | [maturity-assessment](maturity-assessment/) | Autoevaluación de madurez de SOC, inteligencia, vulnerabilidades, cacería, respuesta a incidentes y comunicaciones | SOC-CMM, SIM3, CTI-CMM, Hunting Maturity Model, NIST CSF 2.0 |
 | [vendor-assessment](vendor-assessment/) | Selección, contratación y supervisión de proveedores de SOC, MSSP y MDR | SOC-CMM, SIM3, ISO/IEC 27001, SOC 2, MITRE ATT&CK Evaluations, NIST CSF 2.0 GV.SC |
 | [templates](templates/) | Plantillas de informes y evaluaciones | ISO/IEC 27005, NIST SP 800-30 |

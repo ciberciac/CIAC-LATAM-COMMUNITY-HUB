@@ -1,0 +1,2 @@
+id,fecha_utc,analista,url,descripcion,tipo,archivo_captura,sha256,metodo_captura,fuente_calificacion,observaciones
+EV-001,2026-11-14T15:30:00Z,@usuario,https://example.com/pagina,Captura de página de phishing,captura,EV-001.png,<hash>,navegador en VM + archive.today,B2,Ejemplo

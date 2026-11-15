@@ -4,7 +4,7 @@
 
 Califica cada respuesta con la escala 0–4 del [README](README.md#escala). **Sin evidencia, el puntaje máximo es 1.**
 
-La versión para enviar al proveedor está en [`plantillas/cuestionario.csv`](plantillas/cuestionario.csv).
+Para evaluar y comparar, usa la plantilla Excel [`plantillas/evaluacion-proveedores-ciac.xlsx`](plantillas/evaluacion-proveedores-ciac.xlsx). La versión para enviar al proveedor está en [`plantillas/cuestionario.csv`](plantillas/cuestionario.csv).
 
 ## A. Gobierno, certificaciones y cumplimiento · peso 10 %
 
